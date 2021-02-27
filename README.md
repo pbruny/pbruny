@@ -14,4 +14,4 @@ Feel free to follow me on twitter or Linkedin and message me 😃
 
 
 ---
-[Check out my portfolio](https://paulobruny.vercel.app/)
+[Check out my links](https://paulobruny.vercel.app/)
