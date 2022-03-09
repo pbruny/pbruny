@@ -4,13 +4,14 @@
 ## Hi there 👋 
 I'm Paulo Bruny Lima, I'm a computer engineering student and fullstack web developer. I like to play guitar on my free time and to explore a lot of random things. I just like to learn about almost anything curious 🤷‍♂️
 
-- 🔭 I’m currently studying and developing web applications with React and NodeJS
-- 🌱 I’m getting my degree in Computer Engineering at Federal University of Vale do São Francisco - UNIVASF (Brazil)
+- 💼 I'm currently working as a FullStack Engineer at @descomplica
+- 🔭 Almost always studying and developing web applications with React, Next.js and NodeJS
+- 🌱 Getting my degree in Computer Engineering at Federal University of Vale do São Francisco - UNIVASF (Brazil)
 - 😄 Pronouns: he/him
 - ⚡ Languages: Javascript, PHP and a bit of Java
 - ✈️ Dreaming of traveling around the world
 
-Feel free to follow me on twitter or Linkedin and message me 😃
+Feel free to follow me here, on twitter or Linkedin and message me anytime 😃
 
 
 ---
